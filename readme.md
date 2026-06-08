@@ -3,7 +3,7 @@
 <!-- Add your banner image here -->
 ![Banner](https://i.imgur.com/ECSZ75J.png)
 
-# [Project07](https://project-07-store.tebex.io/)
+# Tebex Store: [Project07](https://project-07-store.tebex.io/)
 
 # 🔧 Project07 Name Change
 ### FiveM QBX / QBCore | Real-Time Player Name Editor
@@ -42,7 +42,7 @@
 
 | Resource | Required | Link |
 |----------|----------|------|
-| `qbx_core` | ✅ Yes | [qbx-core](https://github.com/qbx-core/qbx_core) |
+| `qbx_core / qbcore` | ✅ Yes | [qbx-core](https://github.com/qbx-core/qbx_core) |
 | `oxmysql` | ✅ Yes | [oxmysql](https://github.com/overextended/oxmysql) |
 | `ox_lib` | ✅ Yes | [ox_lib](https://github.com/overextended/ox_lib) |
 
